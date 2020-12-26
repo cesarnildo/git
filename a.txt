@@ -1,3 +1,4 @@
 Teste
 entendendo o head
 Está linha foi modificada no ramo Master'
+Está linha foi modificado no ramo teste
